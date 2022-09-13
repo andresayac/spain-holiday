@@ -4,7 +4,7 @@
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
-class Calendarioslaboral
+class Calendariolaboral
 {
 
     private $URL_BASE = 'https://www.calendarioslaborales.com/';

@@ -2,10 +2,10 @@
 # Dependencies
 require 'vendor/autoload.php';
 
-require 'inc/Calendarioslaboral.class.php';
+require 'inc/Calendariolaboral.class.php';
 
 
-$scraper = new Calendarioslaboral();
+$scraper = new Calendariolaboral();
 
 /*******************
  * get list of years available for validation
